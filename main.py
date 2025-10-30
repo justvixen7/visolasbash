@@ -1,2 +1,2 @@
- print("Yangi versiya ishga tushdi")
+ print("Ydalbash")
 
